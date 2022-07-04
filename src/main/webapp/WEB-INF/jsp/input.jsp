@@ -64,6 +64,6 @@
 			<input type="submit" value="戻る">
 		</form>
 	</main>
-	<script></script>
+	<script type="javascript"></script>
 </body>
 </html>
