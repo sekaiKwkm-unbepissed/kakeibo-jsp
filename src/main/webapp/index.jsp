@@ -11,8 +11,7 @@
 	</head>
 	<body>
 		<h1>ログイン画面</h1>
-		<p>これはedit_htmlなり～</p>
-		<%-- LoginServletのdoPostを実行したいので、以下のように指定 --%>
+s		<%-- LoginServletのdoPostを実行したいので、以下のように指定 --%>
 		<form action="/MyKakeiboJSP/LoginServlet" method="post">
 			ユーザー名：<input type="text" name="name" /><br>
 			PASS：<input type="password" name="pass" /><br>
